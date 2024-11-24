@@ -3,5 +3,6 @@
 }
 body{
   height: 100vh;
-  background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
+  /* background-image: linear-gradient("#D8C7ff" , "#19006C"); */
+  background-image: red;
 }

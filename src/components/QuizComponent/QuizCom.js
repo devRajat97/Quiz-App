@@ -1,12 +1,13 @@
 import React from 'react'
+import "./Quiz.css"
 
 
 const QuizCom = () => {
   return (
     <div className='container'>
-  <h1 className='heading'>quiz</h1>
+  <h1>quiz</h1>
   <hr/>
-  <h2>what is your name</h2>
+  <h2>1. what is your name</h2>
   <ul>
     <li>Rajat</li>
     <li>Ritika</li>
